@@ -1,0 +1,5 @@
+package com.loger.entity;
+
+public class User {
+
+}
